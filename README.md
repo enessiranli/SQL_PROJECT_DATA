@@ -59,6 +59,8 @@ LIMIT 10;
 - **Diverse Employers**: Companies like **SmartAsset, Meta, and AT&T** pay well
 - **Varied Job Titles**: Roles range from **Data Analyst** to **Director of Analytics**
 
+  ![Top Paying Roles](assets/1_top_paying_roles.png)
+
 ---
 ### 2️⃣ **Skills for Top-Paying Jobs**
 I analyzed the most common skills in the highest-paying job listings.
