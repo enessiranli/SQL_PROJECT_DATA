@@ -90,6 +90,7 @@ ORDER BY salary_year_avg DESC;
   - **Tableau** (6 times)  
   - Other skills: **R, Snowflake, Pandas, Excel**
 
+ ![Top Paying Roles](assets/2_top_paying_roles_skills.png)
 ---
 ### 3️⃣ **Most In-Demand Skills**
 I examined the most frequently required skills in **data analyst job postings**.
