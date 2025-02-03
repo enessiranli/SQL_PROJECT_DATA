@@ -6,7 +6,7 @@ Dive into the **data analyst job market!** This project explores:
 - 🔥 **In-demand skills**
 - 📈 **Where high demand meets high salary** in data analytics
 
-🔍 **SQL queries?** Check them out in the [project_sql folder](/project_sql/) folder.
+🔍 **SQL queries?** Check them out in the [project_sql ](/project_sql/) folder.
 
 ---
 ## 📌 Background
@@ -155,7 +155,7 @@ LIMIT 25;
 ## 🚀 Conclusion
 This project strengthened my **SQL skills** and provided valuable insights into the **data analyst job market**. By focusing on **high-demand, high-salary skills**, job seekers can strategically position themselves for success.
 
-🔹 Want to explore the **SQL queries**? Check out the `project_sql` folder!  
+🔹 Want to explore the **SQL queries**? Check out the [project_sql ](/project_sql/) folder!  
 🔹 Found this helpful? ⭐ Star this repository to support my work!  
 
 ---
