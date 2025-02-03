@@ -13,7 +13,7 @@ Dive into the **data analyst job market!** This project explores:
 This project was born from a desire to navigate the **data analyst job market** effectively by pinpointing **top-paid and in-demand skills.** The goal is to help others streamline their job search and focus on optimal skills.
 
 ### 📂 **Dataset**
-The data comes from my SQL Course and contains insights on:
+The data comes from lukebarousse's SQL Course and contains insights on:
 - Job titles 🏢
 - Salaries 💵
 - Locations 🌍
