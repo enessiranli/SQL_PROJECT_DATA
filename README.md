@@ -6,7 +6,7 @@ Dive into the **data analyst job market!** This project explores:
 - 🔥 **In-demand skills**
 - 📈 **Where high demand meets high salary** in data analytics
 
-🔍 **SQL queries?** Check them out in the `project_sql` folder.
+🔍 **SQL queries?** Check them out in the [project_sql folder](/project_sql/) folder.
 
 ---
 ## 📌 Background
